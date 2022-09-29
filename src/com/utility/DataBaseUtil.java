@@ -21,7 +21,7 @@ public class DataBaseUtil {
 		}
 		
 		try {
-		connec =	DriverManager.getConnection("jdbc:mysql://localhost:3306/mgnrega","root","aman");
+		connec =	DriverManager.getConnection("jdbc:mysql://localhost:3306/mgnrega","root","deepak");
 		} catch (SQLException e) {
 			System.out.println(e.getMessage());
 		}
