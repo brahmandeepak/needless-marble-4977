@@ -1,9 +1,10 @@
 # needless-marble-4977
 
 # MGNREGA-clone
-Netmeds is one of India's leading healthcare aggregators and most trusted medicine delivery website.
+Mahatma Gandhi National Rural Employment Guarantee Act 2005 or MNREGA, earlier known as the National Rural Employment Guarantee Act or NREGA, is an Indian labour law and social security measure that aims to guarantee the 'right to work'.
 
-Features: 
+Features:     
+
  Login as a BDO/GPM(Gram Panchayat Member)   
  Create New Project    
  View Lists of Projects    
@@ -59,7 +60,7 @@ Features:
 
   
   
-  - **List of Employee working on a project and wages**
+- **List of Employee working on a project and wages**
 
 
   ![4](https://user-images.githubusercontent.com/105992506/193473549-bc50edaa-1bbe-45d7-814f-805ab0fd02da.png)
@@ -77,7 +78,8 @@ Features:
 
 ### About Project
 
-> We did this project within 4 days in our unit-3 construct week. We worked on backend parts with includes various types of libraries into it and we have also added database for our project so user and product details will be saved and can be used accordingly. We have also add some cool functionality in our home page, product page and cart page where you can filter the products according to your choice and user can Signup and Login to buy the products.
+> We did this project within 4 days in our unit-5 construct week. We worked on creating Tables in it and we have also added database for our project so BDO and GPM details will be saved and can be used accordingly. We have also add some cool functionality like view Project allocate to whom or view Lists of Project according to your choice and GPM can Signup and Login and create new profile for an Employee to assign the project through product ID.
+> Incorrect userID or Password (alert)
 
 ---
 
@@ -85,34 +87,12 @@ Features:
 
 ### Google Drive Link
 
-https://drive.google.com/file/d/1wUccuUZZrChek7g8OP6ln0XWdIHOIfd8/view?usp=sharing&authuser=1
+https://drive.google.com/file/d/11qkKJUtIwhgyth8KYZOLFn4TGvjNC8fN/view?usp=sharing
 
 
-### Netlfy Link
-https://dainty-capybara-ade72c.netlify.app/
 
 ### Github Link
-https://github.com/visheshguria/-psychedelic-art-4007
+https://github.com/brahmandeepak/needless-marble-4977
 
 
-## Contribution : -
-
-1.[Vishesh Guria] [Team Leader] 
-[Branch Merging, Functionality & Flow, Design Verification]
-- `(Landing Page, Wellness Page, Ayush Product Page, Mom&baby Page)`
-
-2.[Gautam Kumar]
-
-- `(Profile Section--> wallet Page, Wishlist Page, Offer Page, Account Info, Logout Section/Upload Section)`
-
-3.[Deepak Sharma]
-
-- `(Navbar Section, Signup Page, Login Page ,Device Product Page, Fitness Page, Cart Section, Payment Section, OTP Page, Display Page)`
-
-4.[Tejas Kasure]
-
-- `(Lab Test Page, Footer section, Covid Essentail Page)`
-
-5.[Alal Uddin]
-
-- `(Beauty Page, Health Center, Skin-Care Page, Hair-Care Page, Netmed Video Page)`
+Hope you Like it!!!!!!
