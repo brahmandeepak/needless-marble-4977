@@ -3,7 +3,8 @@
 # MGNREGA-clone
 Mahatma Gandhi National Rural Employment Guarantee Act 2005 or MNREGA, earlier known as the National Rural Employment Guarantee Act or NREGA, is an Indian labour law and social security measure that aims to guarantee the 'right to work'.
 
-Features:     
+
+### Features:-     
 
  Login as a BDO/GPM(Gram Panchayat Member)   
  Create New Project    
