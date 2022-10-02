@@ -41,34 +41,34 @@ Features:
 ### _Following are the Screenshots for the reference_
 
 - **Landing Page**
-  ![Landing Page]
+
+
   ![1](https://user-images.githubusercontent.com/105992506/193473485-c891b960-5ba0-494a-8683-94db0d40ea2a.png)
 
   
 
-- **Product Page**
+- **Login as a BDO**
 
-  ![Landing Page]
   ![2](https://user-images.githubusercontent.com/105992506/193473502-b957efc8-7d15-4db2-8c13-45af64a9e71d.png)
 
 
-- **Sign-Up Page**
+- **Lists of Projects**
 
-  ![Landing Page]
+
   ![3](https://user-images.githubusercontent.com/105992506/193473519-6f807260-268e-4c2d-af2c-191de49ef919.png)
 
   
   
-  - **Sign-In Page**
+  - **List of Employee working on a project and wages**
 
-  ![Landing Page]
+
   ![4](https://user-images.githubusercontent.com/105992506/193473549-bc50edaa-1bbe-45d7-814f-805ab0fd02da.png)
 
 
 
-- **Cart Page**
+- **Login as a GPM(Gram Panchayat Member)**
 
-  ![Landing Page]
+
 ![5](https://user-images.githubusercontent.com/105992506/193473565-c2675a04-2369-44d2-b19f-4b0b73c65e0c.png)
 
 
